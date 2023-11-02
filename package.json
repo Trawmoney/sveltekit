@@ -23,7 +23,7 @@
     "vite": "^4.4.2"
   },
   "ampt": {
-    "org": "",
+    "org": "tsthomas93292633",
     "app": "sveltekit"
   },
   "type": "module",
